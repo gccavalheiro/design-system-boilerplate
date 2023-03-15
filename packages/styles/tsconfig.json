@@ -1,0 +1,4 @@
+{
+  "extends": "@levva-ui/ts-config/base.json",
+  "include": ["src"],
+}

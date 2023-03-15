@@ -1,0 +1,4 @@
+{
+  "extends": "@levva-ui/ts-config/react.json",
+  "include": ["src"],
+}
