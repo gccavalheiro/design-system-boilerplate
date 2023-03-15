@@ -9,19 +9,19 @@
 <h1 align="center">Levva Design System</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/gccavalheiro/levva-design-system?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/gccavalheiro/design-system?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/gccavalheiro/levva-design-system?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/gccavalheiro/design-system?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gccavalheiro/levva-design-system?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gccavalheiro/design-system?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/gccavalheiro/levva-design-system?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/gccavalheiro/design-system?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/gccavalheiro/levva-design-system?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/gccavalheiro/design-system?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/gccavalheiro/levva-design-system?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/gccavalheiro/design-system?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/gccavalheiro/levva-design-system?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/gccavalheiro/design-system?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
