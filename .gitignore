@@ -3,6 +3,8 @@ node_modules
 packages/react/dist
 packages/tokens/dist
 package-lock.json
+dist
+.turbo
 
 #idea
 .history
