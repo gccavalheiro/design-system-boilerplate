@@ -1,18 +1,29 @@
-import { styled } from '@levva-ui/styles'
-import { colors } from '@levva-ui/tokens'
+import { ComponentProps } from 'react'
 
-const Button = styled('button', {
+import { styled } from '@levva-ui/styles'
+
+export const Button = styled('button', {
   backgroundColor: '$primary500',
-  height: '$10',
   borderRadius: '$md',
-  width: '$10',
+
+  variants: {
+    size: {
+      small: {
+        fontSize: '$14',
+        fontWeight: '$bold',
+        padding: '$4 $8',
+      },
+      big: {
+        fontSize: '$14',
+        fontWeight: '$bold',
+        padding: '$8 $16',
+      },
+    },
+  },
+
+  defaultVariants: {
+    size: 'small',
+  },
 })
 
-export function App() {
-  return (
-    <>
-      <h1 style={{ color: colors.secondary500 }}>Hello World</h1>
-      <Button>Click</Button>
-    </>
-  )
-}
+export type ButtonProps = ComponentProps<typeof Button>
