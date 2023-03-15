@@ -49,7 +49,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/gccavalheiro/levva-design-system
+$ git clone https://github.com/gccavalheiro/design-system-boilerplate
 
 # Access
 $ cd levva-design-system
